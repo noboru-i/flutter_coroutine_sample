@@ -11,6 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  long_process:
+    path: packages/long_process
 
 dev_dependencies:
   flutter_test:
